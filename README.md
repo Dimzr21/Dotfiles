@@ -39,3 +39,5 @@ my Gnome Fedora Setup for Work
     <li> Dracula GTK Themes
   </li>
 </ul>
+
+<p>Git clone my config if you want more straightfoward setup, but for other package like Nordzy icons and bibita you can considering to go to their githube pages for installation</p>
